@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RegisterApp</string>
+    <string name="register_name">Register Name</string>
+
+
+    <string name="empty_screen_txt">New Create Job</string>
+    <string name="add_register_title_text">New Register</string>
+
 </resources>
